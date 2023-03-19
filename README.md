@@ -1,1 +1,6 @@
-# Hina_2566
+# Topics to Cover
+Git Pull / Push
+
+VS Code
+
+Branching
